@@ -8,8 +8,3 @@
 	url = https://github.com/riccardo-df/aggtrees
 	shallow = true
 	registered = true
-[submodule "morf"]
-	path = morf
-	url = https://github.com/riccardo-df/morf
-	shallow = true
-	registered = true
