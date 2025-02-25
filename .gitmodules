@@ -5,6 +5,9 @@
 [submodule "aggTrees"]
 	path = aggTrees
 	url = https://github.com/riccardo-df/aggtrees
+[submodule "causalQual"]
+	path = causalQual
+	url = https://github.com/riccardo-df/causalqual
 [submodule "ocf"]
 	path = ocf
 	url = https://github.com/riccardo-df/ocf
